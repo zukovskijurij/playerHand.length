@@ -1,0 +1,10 @@
+ if (playerHand.length === 0) {
+        console.log("Компьютер выиграл. Попробуйте еще раз!");
+        break;
+      }
+    }
+  }
+  playDurak();
+</script>
+</body>
+</html>
